@@ -1,0 +1,26 @@
+body {
+	background-image: url(back1.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+h2 {
+	text-align: center;
+	color: brown;
+}
+
+.login {
+	/*border: 3px solid black;*/
+	width: 40%;
+	text-align: center;
+
+
+	width: 300px;
+	padding: 30px;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+	background: lightblue;
+	position: absolute;
+}
+
